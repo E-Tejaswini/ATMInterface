@@ -15,3 +15,6 @@ balance.
 of their transactions.
 
 * This is how it runs👀
+* https://github.com/E-Tejaswini/ATMInterface/assets/147268553/0b68d362-94f6-42f0-996a-a0dc8e043b16
+
+
